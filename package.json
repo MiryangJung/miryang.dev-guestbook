@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "guest-book",
+  "version": "1.0.0",
+  "description": "miryang.dev guestbook api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "MiryangJung <miryang.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
